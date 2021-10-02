@@ -6,4 +6,4 @@ The VideoSummarizer can be used to generate Video Summary given Video(.mp4) and 
 
 # Author
 
-<a href="https://github.com/aashay15">Aashay Sharma</a>
+<a href="https://github.com/aashay15">Aashay Sharma</a> | NJIET
